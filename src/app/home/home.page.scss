@@ -25,3 +25,12 @@
 #container a {
   text-decoration: none;
 }
+
+@font-face {
+  font-family: sunday;
+  src: url(../../assets/fonts/SundayMilk.ttf);
+}
+
+.caligrafia {
+  font-family: sunday;
+}
